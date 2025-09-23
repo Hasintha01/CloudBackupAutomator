@@ -1,6 +1,4 @@
-Got it! I can create a **concise, polished README** in that same style, tailored for your CloudBackupAutomator project. Here’s a refined version based on your draft:
 
-````markdown
 # CloudBackupAutomator
 **Automated Cloud Backup Solution using AWS EC2 & S3**
 
@@ -49,7 +47,7 @@ CloudBackupAutomator is a professional-grade Python project that automates the b
 
 1. **Clone the repository**
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
+git clone https://github.com/Hasintha01/CloudBackupAutomator
 cd CloudBackupAutomator
 ````
 
@@ -102,11 +100,6 @@ crontab -e
 
 ---
 
-📸 **Screenshots**
-(Add screenshots of EC2 running, Nginx page, S3 bucket contents, and script output)
-
----
-
 📌 **Future Enhancements**
 
 * Add Lambda function to automatically stop/start EC2 based on usage or schedule.
@@ -118,11 +111,4 @@ crontab -e
 📝 **License**
 MIT License
 
-```
 
----
-
-If you want, I can **also create a ready-to-use `.gitignore` and folder structure** so you can safely push your project to GitHub without exposing `.pem` files or `.env` secrets.  
-
-Do you want me to do that next?
-```
