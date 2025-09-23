@@ -100,14 +100,6 @@ crontab -e
 
 ---
 
-📌 **Future Enhancements**
-
-* Add Lambda function to automatically stop/start EC2 based on usage or schedule.
-* Integrate CloudWatch metrics to trigger backup only when specific conditions are met.
-* Add email notifications for backup success/failure.
-
----
-
 📝 **License**
 MIT License
 
