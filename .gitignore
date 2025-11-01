@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Backup checksums
+.backup_checksums.json
+
+# Restored files
+restored/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files
+test.log
+*.encrypted

@@ -1,3 +1,15 @@
-boto3
-python-dotenv
+# AWS SDK
+boto3>=1.28.0
 
+# Environment variables
+python-dotenv>=1.0.0
+
+# Encryption
+cryptography>=41.0.0
+
+# Progress bars
+tqdm>=4.66.0
+
+# Testing (optional)
+pytest>=7.4.0
+pytest-cov>=4.1.0
